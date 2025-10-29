@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "SMS Insights",
+    "subtitle": "Your daily digest"
+  },
+  "nav": {
+    "home": "Home",
+    "messages": "Messages",
+    "stats": "Stats",
+    "settings": "Settings"
+  },
+  "summary": {
+    "title": "Today's Highlights",
+    "critical": "Critical Alerts",
+    "major": "Important Updates",
+    "minor": "Quick Info",
+    "savings": "Don't Miss: Save ₹5,000!",
+    "limitedTime": "Limited Time"
+  },
+  "categories": {
+    "recharge": "Recharge",
+    "shopping": "Shopping",
+    "travel": "Travel",
+    "banking": "Banking",
+    "health": "Health",
+    "entertainment": "Entertainment",
+    "food": "Food & Dining",
+    "education": "Education"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "description": "Stay updated with important alerts and offers"
+  },
+  "settings": {
+    "language": "Language",
+    "selectLanguage": "Select Language"
+  },
+  "messages": {
+    "all": "All Messages",
+    "starred": "Starred",
+    "urgent": "Urgent",
+    "timeLeft": "hours left"
+  }
+}

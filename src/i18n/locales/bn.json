@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "SMS তথ্য",
+    "subtitle": "আপনার দৈনিক সারাংশ"
+  },
+  "nav": {
+    "home": "হোম",
+    "messages": "বার্তা",
+    "stats": "পরিসংখ্যান",
+    "settings": "সেটিংস"
+  },
+  "summary": {
+    "title": "আজকের হাইলাইট",
+    "critical": "জরুরি সতর্কতা",
+    "major": "গুরুত্বপূর্ণ আপডেট",
+    "minor": "দ্রুত তথ্য",
+    "savings": "মিস করবেন না: ₹৫,০০০ সাশ্রয় করুন!",
+    "limitedTime": "সীমিত সময়"
+  },
+  "categories": {
+    "recharge": "রিচার্জ",
+    "shopping": "শপিং",
+    "travel": "ভ্রমণ",
+    "banking": "ব্যাংকিং",
+    "health": "স্বাস্থ্য",
+    "entertainment": "বিনোদন",
+    "food": "খাবার",
+    "education": "শিক্ষা"
+  },
+  "notifications": {
+    "title": "বিজ্ঞপ্তি",
+    "description": "গুরুত্বপূর্ণ সতর্কতা এবং অফার সহ আপডেট থাকুন"
+  },
+  "settings": {
+    "language": "ভাষা",
+    "selectLanguage": "ভাষা নির্বাচন করুন"
+  },
+  "messages": {
+    "all": "সব বার্তা",
+    "starred": "তারকাচিহ্নিত",
+    "urgent": "জরুরি",
+    "timeLeft": "ঘণ্টা বাকি"
+  }
+}

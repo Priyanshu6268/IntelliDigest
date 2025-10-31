@@ -64,15 +64,14 @@ It converts SMS noise into clarity — saving time, improving focus, and boostin
 
 ## 🧭 Architecture Overview
 
-```mermaid
 flowchart LR
-A[Incoming SMS Messages] --> B[Edge AI Processing (NLP Model)]
-B --> C[Smart Categorization]
-C --> D[Summarization Engine]
-D --> E[Actionable Insights Extraction]
-E --> F[Personalized Daily Digest]
-F --> G[User Interface (React + Tailwind CSS)]
-```
+    A[Incoming SMS Messages] --> B[Edge AI Processing / NLP Model]
+    B --> C[Smart Categorization]
+    C --> D[Summarization Engine]
+    D --> E[Actionable Insights Extraction]
+    E --> F[Personalized Daily Digest]
+    F --> G[User Interface - React + Tailwind CSS]
+
 
 ---
 
@@ -203,7 +202,7 @@ If you find this project useful:
 
 * 💼 [LinkedIn](https://linkedin.com/in/priyanshu-kumar-saw)
 * 🌐 [Portfolio](priyanshu6268.github.io/Portfolio/)
-* 📧 Email: [yourname@example.com](mailto:priyanshukumar7470@gmail.com)
+* 📧 Email: [Gmail](mailto:priyanshukumar7470@gmail.com)
 
 ---
 

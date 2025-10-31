@@ -5,8 +5,8 @@
 ### *Bridging Message Overload with Intelligent Organization and Insights*
 
 ---
+<img src="https://github.com/user-attachments/assets/e9170a1d-c044-404d-8488-c6ebbf35d5c6" alt="UI_insight" width="20%">
 
-![UI_insight](https://github.com/user-attachments/assets/e9170a1d-c044-404d-8488-c6ebbf35d5c6)
 
 
 > **Turn SMS chaos into clarity.**

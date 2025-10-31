@@ -6,7 +6,8 @@
 
 ---
 
-![IntelliDigest Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![UI_insight](https://github.com/user-attachments/assets/e9170a1d-c044-404d-8488-c6ebbf35d5c6)
+
 
 > **Turn SMS chaos into clarity.**
 > An AI-powered, privacy-first system that transforms hundreds of daily promotional messages into one smart, actionable digest.
@@ -59,19 +60,6 @@ It converts SMS noise into clarity — saving time, improving focus, and boostin
 
 * **70% reduction in reading time** for multiple messages.
 * **Significant improvement in alert visibility and response**.
-
----
-
-## 🧭 Architecture Overview
-
-flowchart LR
-    A[Incoming SMS Messages] --> B[Edge AI Processing / NLP Model]
-    B --> C[Smart Categorization]
-    C --> D[Summarization Engine]
-    D --> E[Actionable Insights Extraction]
-    E --> F[Personalized Daily Digest]
-    F --> G[User Interface - React + Tailwind CSS]
-
 
 ---
 

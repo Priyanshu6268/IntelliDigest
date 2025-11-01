@@ -5,7 +5,28 @@
 ### *Bridging Message Overload with Intelligent Organization and Insights*
 
 ---
-<img src="https://github.com/user-attachments/assets/e9170a1d-c044-404d-8488-c6ebbf35d5c6" alt="UI_insight" width="20%">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/e9170a1d-c044-404d-8488-c6ebbf35d5c6" alt="UI Insight" width="85%">
+      <p><b>📊 UI Insight Preview</b></p>
+    </td>
+    <td align="center" width="34%">
+      <a href="https://github.com/user-attachments/assets/0ddb26df-19c2-49c5-9401-4a187c95f161" target="_blank">
+        <img src="https://img.youtube.com/vi/F-mSxarY1Us/hqdefault.jpg" alt="Compressed Demo Video" width="90%">
+      </a>
+      <p><b>🎥 Compressed IntelliDigest Demo (Click to Play)</b></p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=F-mSxarY1Us" target="_blank">
+        <img src="https://img.youtube.com/vi/F-mSxarY1Us/hqdefault.jpg" alt="IntelliDigest Demo" width="90%">
+      </a>
+      <p><b>🎬 Full IntelliDigest Demo on YouTube</b></p>
+    </td>
+  </tr>
+</table>
+
 
 
 
